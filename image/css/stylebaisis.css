@@ -1,0 +1,25 @@
+body{
+  background-image:url('https://static.hbo.com/2022-09/house-of-the-dragon-sn01-v2-ka-1920.jpg?w=1200') ; */
+    background-size:cover;
+    font-size: medium;
+    color: antiquewhite;
+}
+#image_1{width:50%;
+    height:auto;
+}
+.group1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 20px solid color red;
+    border:29px solid color  green;
+}
+{ font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border:20px solid color red;
+
+}
+table{
+    border:2px solid rebeccapurple;
+    border-collapse: collapse; 
+    margin:5% 40% 102107;
+}
+
