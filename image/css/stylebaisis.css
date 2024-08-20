@@ -18,8 +18,11 @@ body{
 
 }
 table{
-    border:2px solid rebeccapurple;
+    border:2px solid red;
     border-collapse: collapse; 
-    margin:5% 40% 102107;
+    margin:5% 40% 50% 40%;
+}
+table td{
+    border-bottom: ;
 }
 
